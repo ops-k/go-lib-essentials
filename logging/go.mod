@@ -1,4 +1,4 @@
-module github.com/ops-k/go-lib-logging
+module github.com/ops-k/go-lib-essentials/logging
 
 go 1.24.4
 
